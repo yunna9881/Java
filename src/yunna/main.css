@@ -1,0 +1,16 @@
+////////////////////////////////////////////////////////////////////////////////
+// main.css
+// ============
+// a general purpose class to decolation java file
+//
+// AUTHOR: Yunna Won
+// CREATED: 2018-03-23
+// UPDATED: 2018-03-30
+////////////////////////////////////////////////////////////////////////////////
+
+#root{
+    -fx-background-image:url("unicon.jpg");
+     -fx-background-position:center center;
+    -fx-background-attachment:fixed;
+    -fx-background-size:cover;
+}
